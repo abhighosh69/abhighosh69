@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Abhishek Ghosh</h1>
-<h2  align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+👋,+I'm+Abhishek+Ghosh;A+passionate+Software+Developer,;Final+Year+BCA+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs...<3"></h2>
+<h2  align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+👋,+I'm+Abhishek+Ghosh;A+passionate+Software+Developer,;Final+Year+BCA+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..."></h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhighosh69&label=Profile%20views&color=0e75b6&style=flat" alt="abhighosh69" /> </p>
 
